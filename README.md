@@ -8,7 +8,7 @@ Table of Contents
   * Script 3: Brute Force Attack with Numeric Characters
   * Requirements
   * Usage
-  * 
+    
 Getting Started
 To run these scripts, ensure you have Python 3 installed on your machine. You can download Python from python.org.
 
